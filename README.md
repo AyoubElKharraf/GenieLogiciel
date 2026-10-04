@@ -39,8 +39,11 @@ Le système adopte une architecture **SaaS Multi-Tenant**, permettant à plusieu
 
 | Membre | Rôle |
 |---|---|
-| Ayoub El Kharraf | *(rôle à préciser)* |
-| ... | ... |
+| Bessadoun Aymane | *(rôle à préciser)* |
+| El Kharraf Ayoub | *(rôle à préciser)* |
+| Genin Amine      | *(rôle à préciser)* |
+| Mezine Athman    | *(rôle à préciser)* |
+| Ouhmmou Samir    | *(rôle à préciser)* |
 
 ## 🗂️ Méthodologie de gestion de projet
 
